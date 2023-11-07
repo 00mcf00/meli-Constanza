@@ -90,7 +90,7 @@ button{
 }
 
 button[type=submit]:hover, button[type=reset]:hover {
-    background-color: #FF9800;
+    background-color: #0022aa;
     border: solid 2px white;
     color: white;
 }
